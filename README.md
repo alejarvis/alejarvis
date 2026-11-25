@@ -5,8 +5,6 @@
   <img src="assets/light/header.svg" width="100%" alt="Alex Canciello — Software Engineer and Founder">
 </picture>
 
-[Website](https://binancy.it) &nbsp;·&nbsp; [Email](mailto:alex@binancy.it)
-
 </div>
 
 <picture>
