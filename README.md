@@ -11,8 +11,13 @@ Building software, intelligent systems and digital infrastructure.
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile-3d-contrib/profile-night-green-minimal.svg">
+  <img
+    src="./profile-3d-contrib/profile-green-minimal.svg"
+    width="100%"
+    alt="GitHub contributions">
 </picture>
 
 </div>
