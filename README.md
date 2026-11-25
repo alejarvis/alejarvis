@@ -1,23 +1,20 @@
-<div align="center">
-
 # Alex Canciello
 
-**Software Engineer & Founder at [Binancy](https://binancy.it)**
+**Software Engineer. Founder. Builder.**
 
-Building software, intelligent systems and digital infrastructure.
+Founder of [Binancy](https://binancy.it), an independent
+software house engineering digital solutions for businesses.
+
+I design, build and scale software systems across
+business platforms, artificial intelligence,
+automation and cloud infrastructure.
+
+### Technologies
+
+[![Tech Stack](https://skillicons.dev/icons?i=laravel,php,vue,js,tailwind,mysql,redis,linux,cloudflare,git&theme=dark)](https://skillicons.dev)
+
+---
+
+**Build with purpose. Engineer for scale.**
 
 [Website](https://binancy.it) · [Email](mailto:alex@binancy.it)
-
-<br>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./profile-3d-contrib/profile-night-green-minimal.svg">
-  <img
-    src="./profile-3d-contrib/profile-green-minimal.svg"
-    width="100%"
-    alt="GitHub contributions">
-</picture>
-
-</div>
