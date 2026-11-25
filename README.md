@@ -1,20 +1,30 @@
-# Alex Canciello
+<div align="center">
 
-**Software Engineer. Founder. Builder.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg">
+  <img src="assets/light/header.svg" width="100%" alt="Alex Canciello — Software Engineer and Founder">
+</picture>
 
-Founder of [Binancy](https://binancy.it), an independent
-software house engineering digital solutions for businesses.
+[Website](https://binancy.it) &nbsp;·&nbsp; [Email](mailto:alex@binancy.it)
 
-I design, build and scale software systems across
-business platforms, artificial intelligence,
-automation and cloud infrastructure.
+</div>
 
-### Technologies
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/identity.svg">
+  <img src="assets/light/identity.svg" width="100%" alt="Founder of Binancy, independent software house in Italy. Designing, building and scaling software systems for businesses.">
+</picture>
 
-[![Tech Stack](https://skillicons.dev/icons?i=laravel,php,vue,js,tailwind,mysql,redis,linux,cloudflare,git&theme=dark)](https://skillicons.dev)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/systems.svg">
+  <img src="assets/light/systems.svg" width="100%" alt="Core systems: software engineering, CRM, AI, automation, infrastructure and VoIP.">
+</picture>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg">
+  <img src="assets/light/stack.svg" width="100%" alt="Technology stack: Laravel, PHP, Vue, Inertia, Tailwind, MySQL, Redis, Linux, Cloudflare, n8n, Git and GitHub.">
+</picture>
 
-**Build with purpose. Engineer for scale.**
-
-[Website](https://binancy.it) · [Email](mailto:alex@binancy.it)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg">
+  <img src="assets/light/footer.svg" width="100%" alt="Build with purpose. Engineer for scale.">
+</picture>

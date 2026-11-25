@@ -1,0 +1,1 @@
+Technology logo silhouettes are from [Simple Icons](https://github.com/simple-icons/simple-icons), distributed under CC0-1.0. Brand names and logos remain subject to their respective owners’ trademark guidelines. All other artwork is original to this README.
